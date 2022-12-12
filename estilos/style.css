@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+header {
+  padding: 60px;
+  background-color: chocolate;
+}
+
+.display-1 {
+  background-color: yellow;
+}
+
+.ubicacion {
+  background-color: lawngreen;
+}
+
+.mediosdepago {
+  background-color: olive;
+}
+
+a {
+  text-decoration: none;
+  font-size: 17px;
+  color: aliceblue;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}/*# sourceMappingURL=style.css.map */
